@@ -1,0 +1,21 @@
+{
+    "name": "dreamy",
+    "displayName": "Dreamy",
+    "description": "My very own VSCode theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dreamy Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dreamy Pro-color-theme.json"
+            }
+        ]
+    }
+}
